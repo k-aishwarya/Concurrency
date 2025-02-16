@@ -1,2 +1,2 @@
-# Concurrency-
+# Concurrency
 Concurrency concepts
